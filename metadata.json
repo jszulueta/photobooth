@@ -1,0 +1,6 @@
+{
+  "name": "MacBooth",
+  "description": "A polished macOS-style digital photo booth with real-time filters, countdown timer, and photo strip effects.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
